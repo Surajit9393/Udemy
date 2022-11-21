@@ -1,0 +1,61 @@
+body{
+    background-color: antiquewhite;
+}
+img{
+    border-radius: 50%;
+}
+/* h6
+{
+    text-align: center;
+    font-family: poppins;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+p{
+    text-align: center;
+    font-family: poppins;
+    font-weight: bolder;
+    font-size: large;
+} */
+#msg{
+    text-align: center;
+    font-family: poppins;
+    font-weight: bolder;
+    font-size: large;
+}
+#Fed{
+    text-align: center;
+    font-family: poppins;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#feedback{
+    align-content: center;
+}
+#Star{
+    text-align: center;
+    
+}
+textarea {
+    display: block;
+    margin: auto;
+}
+#Thanks{
+    display: block;
+    margin: auto;
+}
+#submit{
+    display: block;
+    margin: auto;
+    background-color:beige;
+    border-radius: 20;
+    border-color: aliceblue;
+    font-family: poppins;
+}
+#return{
+    text-align: center;
+    font-family: poppins;
+}
+#submit:hover{
+    background-color: blueviolet;
+}
